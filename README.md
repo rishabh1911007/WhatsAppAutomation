@@ -2,7 +2,7 @@
 
 Demo: https://youtu.be/wpWuBtKcmZM
 
-This is for fun and the code is only about of 2 lines , lol
+This is for fun and the code is only about of 2 lines , lol.
 first you have to install this package named as pywhatkit, from pip command or you can download it manually.
 command for installing is: pip install pywhatkit
 That's it.
